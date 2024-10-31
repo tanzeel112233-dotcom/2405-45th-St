@@ -1,6 +1,6 @@
 # 2405-45th-St
 
-### Overview
+## Overview
 Welcome to the repository for the property located at 2405 45th Street. This property consists of two apartments, A and B. There are several issues that need to be addressed, which are tracked through GitHub issues and milestones.
 
 ### Issues
@@ -9,7 +9,7 @@ For a comprehensive list of current issues that need attention, please visit the
 ### Milestones
 To view the progress and deadlines associated with the issues, check out the [Milestones](https://github.com/United-Home/2405-45th-St/milestones).
 
-## VISUALS
+## Visuals
 
 ### Whole Property
 <img width="535" alt="Whole Property" src="https://github.com/user-attachments/assets/c5b0e4c4-550c-4856-bb06-f5a4fc556798">
