@@ -30,7 +30,7 @@ To view the progress and deadlines associated with the issues, check out the [Mi
 ### Contributing
 If you would like to contribute to the maintenance and improvement of this property, please feel free to open issues or submit pull requests.
 
-# Active Projects
+# High Priority Projects
 
 
 | Concern                  | Milestone                   | Issues                      | Description                                                                 | Labor Costs | Material Costs | Contractor Estimates |
