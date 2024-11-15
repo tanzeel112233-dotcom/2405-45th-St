@@ -29,3 +29,35 @@ To view the progress and deadlines associated with the issues, check out the [Mi
 
 ### Contributing
 If you would like to contribute to the maintenance and improvement of this property, please feel free to open issues or submit pull requests.
+
+# Active Projects
+
+
+| Concern                  | Milestone                   | Issues                      | Description                                                                 | Labor Costs | Material Costs | Contractor Estimates |
+|----------------------------|-----------------------------|-----------------------------|-----------------------------------------------------------------------------|-------------|----------------|----------------------|
+| Exterior Structure         | Repair Siding on Back Deck  | Inspect Siding              | Conduct inspection and document damage. Document the entire process.        | TBD         | None           | TBD                  |
+|                            |                             | Select Siding Materials     | Choose durable materials. Document the entire process.                      | TBD         | TBD            | TBD                  |
+|                            |                             | Obtain Contractor Quotes    | Request and evaluate contractor quotes. Document the entire process.        | TBD         | None           | TBD                  |
+|                            |                             | Repair/Replace Siding       | Execute repairs. Document the entire process.                               | TBD         | TBD            | TBD                  |
+|                            |                             | Final Inspection            | Perform final inspection. Document the entire process.                      | TBD         | None           | TBD                  |
+|                            |                             | Document Process            | Gather all documentation for compliance.                                    | TBD         | None           | None                 |
+| Protective Treatment       | Trim Around the Windows     | Inspect Window Trim         | Conduct inspection and document damage. Document the entire process.        | TBD         | None           | TBD                  |
+|                            |                             | Select Paint and Materials  | Choose paint and materials. Document the entire process.                    | TBD         | TBD            | TBD                  |
+|                            |                             | Obtain Contractor Quotes    | Request and evaluate contractor quotes. Document the entire process.        | TBD         | None           | TBD                  |
+|                            |                             | Repair and Repaint Trim     | Execute repairs and repainting. Document the entire process.                | TBD         | TBD            | TBD                  |
+|                            |                             | Final Inspection            | Perform final inspection. Document the entire process.                      | TBD         | None           | TBD                  |
+|                            |                             | Document Process            | Gather all documentation for compliance.                                    | TBD         | None           | None                 |
+| Roofs and Drainage         | Add Gutters                 | Assess Current System       | Evaluate existing gutters. Document the entire process.                     | TBD         | None           | TBD                  |
+|                            |                             | Select Gutter Materials     | Choose materials for gutters. Document the entire process.                  | TBD         | TBD            | TBD                  |
+|                            |                             | Obtain Contractor Quotes    | Request and evaluate contractor quotes. Document the entire process.        | TBD         | None           | TBD                  |
+|                            |                             | Install/Repair Gutters      | Execute installation/repair. Document the entire process.                   | TBD         | TBD            | TBD                  |
+|                            |                             | Final Inspection            | Perform final inspection. Document the entire process.                      | TBD         | None           | TBD                  |
+|                            |                             | Document Process            | Gather all documentation for compliance.                                    | TBD         | None           | None                 |
+| Stairways and Porches      | Front Porch Repair          | Inspect Front Porch         | Conduct inspection and document damage. Document the entire process.        | TBD         | None           | TBD                  |
+|                            |                             | Select Repair Materials     | Choose materials for repairs. Document the entire process.                  | TBD         | TBD            | TBD                  |
+|                            |                             | Obtain Contractor Quotes    | Request and evaluate contractor quotes. Document the entire process.        | TBD         | None           | TBD                  |
+|                            |                             | Repair Porch Floor/Spindles | Execute repairs. Document the entire process.                               | TBD         | TBD            | TBD                  |
+|                            |                             | Final Inspection            | Perform final inspection. Document the entire process.                      | TBD         | None           | TBD                  |
+|                            |                             | Document Process            | Gather all documentation for compliance.                                    | TBD         | None           | None                 |
+
+Replace "TBD" with the actual costs and estimates as they become available.
