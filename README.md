@@ -9,28 +9,9 @@ For a comprehensive list of current issues that need attention, please visit the
 ### Milestones
 To view the progress and deadlines associated with the issues, check out the [Milestones](https://github.com/United-Home/2405-45th-St/milestones).
 
-## Visuals
+---
 
-### Whole Property
-<img width="535" alt="Whole Property" src="https://github.com/user-attachments/assets/c5b0e4c4-550c-4856-bb06-f5a4fc556798">
-
-### Apartment A
-![Apartment A](https://github.com/user-attachments/assets/19b1907e-f7ae-40cd-8246-16b8fbe0a923)
-
-### Apartment B
-<img width="470" alt="Apartment B" src="https://github.com/user-attachments/assets/fc315c60-818d-4489-8a10-75fa618b3171">
-
-### Electrical Panel Location (Inside the House)
-
-<img width="399" alt="Electrical Panel Location" src="https://github.com/user-attachments/assets/5eed9cb8-ed99-48be-902d-6d57f265a18d">
-
-### Electric Schedule as of October 29, 2024
-![Electric Schedule October 2024](https://github.com/user-attachments/assets/0a3a0a65-4441-42e5-9375-126b98eb065d)
-
-### Contributing
-If you would like to contribute to the maintenance and improvement of this property, please feel free to open issues or submit pull requests.
-
-# High Priority Projects
+## High Priority Projects
 
 | Concern                    | Milestone                                                                 | Issues                      | Labor Costs | Material Costs | Contractor Estimates |
 |----------------------------|---------------------------------------------------------------------------|-----------------------------|-------------|----------------|----------------------|
@@ -66,3 +47,27 @@ If you would like to contribute to the maintenance and improvement of this prope
 |                            |                                                                           | Document Process            | TBD         | None           | None                 |
 
 Replace "TBD" with the actual costs and estimates as they become available. The table now includes clickable links to each milestone for easy access.
+
+---
+## Visuals
+
+### Whole Property
+<img width="535" alt="Whole Property" src="https://github.com/user-attachments/assets/c5b0e4c4-550c-4856-bb06-f5a4fc556798">
+
+### Apartment A
+![Apartment A](https://github.com/user-attachments/assets/19b1907e-f7ae-40cd-8246-16b8fbe0a923)
+
+### Apartment B
+<img width="470" alt="Apartment B" src="https://github.com/user-attachments/assets/fc315c60-818d-4489-8a10-75fa618b3171">
+
+### Electrical Panel Location (Inside the House)
+
+<img width="399" alt="Electrical Panel Location" src="https://github.com/user-attachments/assets/5eed9cb8-ed99-48be-902d-6d57f265a18d">
+
+### Electric Schedule as of October 29, 2024
+![Electric Schedule October 2024](https://github.com/user-attachments/assets/0a3a0a65-4441-42e5-9375-126b98eb065d)
+
+### Contributing
+If you would like to contribute to the maintenance and improvement of this property, please feel free to open issues or submit pull requests.
+
+
